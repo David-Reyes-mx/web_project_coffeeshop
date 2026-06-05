@@ -97,21 +97,7 @@
   align-items: flex-end;
 }
 
-.header__column-heading {
-  margin: 0 0 5px;
-  color: #838383;
-  font-size: 16px;
-  line-height: 20px;
-}
-
-.header__schedule {
-  margin: 0;
-  color: #838383;
-  font-size: 16px;
-  line-height: 20px;
-}
-
-.header__address {
+.header__paragraph {
   margin: 0;
   color: #838383;
   font-size: 16px;
